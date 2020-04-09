@@ -4,22 +4,21 @@
 permalink:           :slug
 
 # Setup
-title:               'رادیو دال | Radio Daal'
-fa_title:            'رادیو دال'
-tagline:             'این پادکست یک مرجع نیست، یک تجربه است.'
-description:         'در این پادکست آرش به دنبال جواب سوالاتی که دارد و یا برای شنیدن یک داستان جذاب با آدم‌های مختلف هم‌صحبت می‌شود.'
-subtitle:            'مگه این نیست هرکدوم تا آخر عمر یه تعداد محدودی واژه میتونیم بگیم و بنویسیم و تایپ کنیم؟ پس بهتر نیست از این واژه ها به بهترین نحو ممکن استفاده کنیم و کلماتمون را تا جایی که میشه با افراد بیشتری به اشتراک بذاریم؟'
-url:                 https://radioDaal.ir
+title:               'پی آر پادکست | PR Podcast'
+fa_title:            'پی آر پادکست'
+tagline:             'قصه های متن باز'
+description:         'در هر قسمت از این پادکست مهدی و آرش با یکی از دوستان خود که تجربه مشارکت در پروژه متن باز رو دارن گفتگو می کنن.'
+url:                 https://prpodcast.ir
 baseurl:             ''
-paginate:            5
+paginate:            1
 lang:                'fa'
-copyright:           "&#x2117; &amp; &#xA9; 2019"
+copyright:           "&#x2117; &amp; &#xA9; 2020"
 
 # About/contact
 author:
-  name:              Arash Thr
-  url:               https://t.me/radioDaalBot
-  email:             radioDaal@outlook.com
+  name:              Mehdi
+  url:               https://t.me/prodcast
+  email:             prpodcast2020@gmail.com
 
 # Custom vars
 version:             1.0.0
