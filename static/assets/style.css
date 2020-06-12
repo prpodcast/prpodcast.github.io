@@ -1,0 +1,17 @@
+@import url('https://cdn.fontcdn.ir/Font/Persian/Vazir/Vazir.css');
+
+body {
+  direction: rtl;
+  font-family: Vazir;
+}
+
+pre { 
+  direction: ltr;
+  font-family: monospace;
+}
+
+.image-line {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

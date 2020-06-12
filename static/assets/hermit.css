@@ -1,0 +1,43 @@
+html {
+    line-height: 2;
+    letter-spacing: 0;
+}
+
+.posts-group .post-year {
+    margin-right: 0;
+    margin-left: 1.8em;
+}
+
+.posts-group .post-day {
+    margin-left: 0;
+    margin-right: 1em;
+}
+
+.site-branding {
+    margin-right: 0;
+    margin-left: 0.8em;
+}
+
+.hdr-social {
+    margin-left: 0;
+    margin-right: 0.6em;
+}
+
+.next-post {
+    order: 1;
+}
+
+.post-info svg {
+    margin-right: 0;
+    margin-left: 0.8em;
+}
+
+.post-info .tag {
+    margin-right: 0;
+    margin-left: 0.5em;
+}
+
+blockquote {
+    border-left: 0;
+    border-right: 0.25em solid;
+}
