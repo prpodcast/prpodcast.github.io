@@ -1,6 +1,6 @@
 {
   "name": "prpodcast.github.io",
-  "homepage": "https://prpodcast.github.io/prpodcast.github.io",
+  "homepage": "https://prpodcast.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
