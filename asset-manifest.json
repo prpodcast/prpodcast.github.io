@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/prpodcast.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/prpodcast.github.io/static/js/main.26b474dd.chunk.js",
+    "main.js.map": "/prpodcast.github.io/static/js/main.26b474dd.chunk.js.map",
+    "runtime-main.js": "/prpodcast.github.io/static/js/runtime-main.d9269a74.js",
+    "runtime-main.js.map": "/prpodcast.github.io/static/js/runtime-main.d9269a74.js.map",
+    "static/js/2.ca7e1ae9.chunk.js": "/prpodcast.github.io/static/js/2.ca7e1ae9.chunk.js",
+    "static/js/2.ca7e1ae9.chunk.js.map": "/prpodcast.github.io/static/js/2.ca7e1ae9.chunk.js.map",
+    "static/js/3.91810ccc.chunk.js": "/prpodcast.github.io/static/js/3.91810ccc.chunk.js",
+    "static/js/3.91810ccc.chunk.js.map": "/prpodcast.github.io/static/js/3.91810ccc.chunk.js.map",
+    "index.html": "/prpodcast.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/prpodcast.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.ca7e1ae9.chunk.js.LICENSE.txt": "/prpodcast.github.io/static/js/2.ca7e1ae9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/prpodcast.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9269a74.js",
+    "static/js/2.ca7e1ae9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.26b474dd.chunk.js"
+  ]
+}
