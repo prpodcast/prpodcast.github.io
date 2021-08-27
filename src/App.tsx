@@ -1,10 +1,14 @@
-import './App.css';
-import Navbar from './components/Navbar/Navbar';
+import './App.css'
+import Navbar from './components/Navbar/Navbar'
+import Showcase from './components/Showcase/Showcase'
 
 function App() {
   return (
-    <Navbar />
-  );
+    <div>
+      <Navbar/>
+      <Showcase/>
+    </div>
+  )
 }
 
-export default App;
+export default App
