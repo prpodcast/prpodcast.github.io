@@ -11,7 +11,7 @@ const Showcase = () => {
             experiences over each episodes to inspire
             you to start your journey in open source community.
           </p>
-          <a href="#" className="btn btn-outline">Read more</a>
+          <button className="btn btn-outline">Read more</button>
         </div>
         <div className="showcase-form card">
           <h2>Participate</h2>

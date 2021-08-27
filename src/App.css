@@ -28,6 +28,11 @@ a {
     color: #333;
 }
 
+button {
+    text-decoration: none;
+    color: #333;
+}
+
 h1, h2 {
     font-weight: 300;
     line-height: 1.2;
