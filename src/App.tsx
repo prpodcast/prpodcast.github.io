@@ -1,10 +1,9 @@
 import './App.css';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      PR-PODCAST @ 2021
-    </div>
+    <Navbar />
   );
 }
 
