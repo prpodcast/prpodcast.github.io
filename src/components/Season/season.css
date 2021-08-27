@@ -12,3 +12,24 @@
     padding: 20px;
     margin: 25px auto;
 }
+
+@media (max-width: 500px) {
+    .season .grid {
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr;
+    }
+
+    .season .grid img {
+        width: 65%;
+    }
+}
+
+@media (max-width: 768px) {
+    .season {
+        margin: 0 30px;
+    }
+
+    .season .grid img {
+        margin: auto;
+    }
+}
