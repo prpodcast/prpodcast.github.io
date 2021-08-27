@@ -1,0 +1,8 @@
+.ep-detail i {
+    margin: 0 10px;
+}
+
+.ep-desc {
+    text-align: justify;
+    text-justify: inter-word;
+}

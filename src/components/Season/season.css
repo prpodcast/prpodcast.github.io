@@ -1,0 +1,14 @@
+.season {
+    padding-top: 100px;
+}
+
+.season .grid {
+    grid-template-columns: 1fr 4fr;
+    align-items: unset;
+
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 25px auto;
+}
