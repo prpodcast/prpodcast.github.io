@@ -8,7 +8,7 @@ const Episode = (props: {fields: EpisodeInterface}) => {
       <div className="ep-detail">
         <i className="fa fa-calendar"/>{props.fields.releaseDate}
         <i className="fas fa-stopwatch"/>{props.fields.duration}
-        <a href={props.fields.githubAddress} target="_blank" ><i className="fab fa-github" />Repository</a>
+        <a href={props.fields.githubAddress} target="_blank" rel="noreferrer"><i className="fab fa-github" />Repository</a>
         <h2 className="ep-title">{props.fields.title}</h2>
         <p className="ep-desc">{props.fields.description}</p>
         <div className="container-player">
