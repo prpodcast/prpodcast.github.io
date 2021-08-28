@@ -79,6 +79,18 @@
     .showcase-form {
         justify-self: center;
         margin: auto;
+        width: 70%;
+        padding: 40px;
     }
 }
 
+@media (max-width: 360px) {
+    .showcase-form {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .showcase .container {
+        padding: 10px;
+    }
+}
