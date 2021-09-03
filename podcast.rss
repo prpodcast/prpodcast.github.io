@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="fa">
+	<channel>
+		<atom:link href="https://PRpodcast.ir/podcast.rss" rel="self" type="application/rss+xml" />
+		<title>PR Podcast | پی‌آر پادکست</title>
+		<description>«پی‌آر پادکست» مجموعه‌ای است که در هر قسمت از آن مهدی و آرش با یکی از سازندگان و مشارکت‌کنندگانِ پروژه‌های متن‌باز به گفتگو می‌پردازند.</description>
+		<link>https://PRpodcast.ir</link>
+		<language>fa</language>
+		<managingEditor>prpodcast2020@gmail.com (Mehdi)</managingEditor>
+		<webMaster>prpodcast2020@gmail.com (Mehdi)</webMaster>
+		<copyright>2021 پی‌آر پادکست | PR Podcast</copyright>
+		<pubDate>Fri, 3 Sep 2021 19:08:21 +0430</pubDate>
+		<lastBuildDate>Fri, 3 Sep 2021 19:08:21 +0430</lastBuildDate>
+		<image>
+			<link>https://PRpodcast.ir</link>
+			<url>https://prpodcast.ir/logo512.png</url>
+			<title>PR Podcast | پی‌آر پادکست</title>
+		</image>
+		<itunes:subtitle>پی‌آر پادکست قصه های متن باز</itunes:subtitle>
+		<itunes:author>Mehdi &amp; Arash</itunes:author>
+		<itunes:summary>«پی‌آر پادکست» مجموعه‌ای است که در هر قسمت از آن مهدی و آرش با یکی از سازندگان و مشارکت‌کنندگانِ پروژه‌های متن‌باز به گفتگو می‌پردازند.</itunes:summary>
+		<itunes:keywords>interview, opensource, open-source, technology, farsi</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Mehdi</itunes:name>
+			<itunes:email>prpodcast2020@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://prpodcast.ir/logo512.png" />
+		<itunes:category text="Technology">
+			<itunes:category text="Developers" />
+		</itunes:category>
+		<itunes:explicit>no</itunes:explicit>
+
+			<item>
+				<title>Project Icono with Saeed</title>
+				<link>https://PRpodcast.ir</link>
+				<pubDate>Sat, 14 Aug 2021 00:00:00 +0430</pubDate>
+				<description>One tag One icon, no font or svg, Pure CSS.</description>
+				<!-- <guid isPermaLink="true">https://prpodcast.ir/</guid> -->
+				<enclosure url="https://archive.org/download/saeed_episode_6/saeed_episode_6.mp3" length="15333421" type="audio/mp3"/>
+				<itunes:author>Mehdi &amp; Arash</itunes:author>
+				<itunes:subtitle>پی‌آر پادکست قسمت ششم با سعید</itunes:subtitle>
+				<itunes:summary>One tag One icon, no font or svg, Pure CSS.
+
+توضیحات بیشتر در &lt;a href=&quot;https://prpodcast.ir/&quot;&gt;سایت پی‌آر پادکست&lt;/a&gt;.
+</itunes:summary>
+				<itunes:duration>1527.0</itunes:duration>
+				<itunes:keywords>interview, opensource, open-source, technology, farsi</itunes:keywords>
+				<itunes:image href="https://PRpodcast.ir/covers/ep06.jpg" />
+				<itunes:explicit>no</itunes:explicit>
+				<itunes:block>no</itunes:block>
+			</item>
+
+	</channel>
+</rss>
