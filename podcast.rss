@@ -13,7 +13,7 @@
 		<lastBuildDate>Fri, 3 Sep 2021 19:08:21 +0430</lastBuildDate>
 		<image>
 			<link>https://PRpodcast.ir</link>
-			<url>https://prpodcast.ir/logo512.png</url>
+			<url>https://prpodcast.ir/logo1400.png</url>
 			<title>PR Podcast | پی‌آر پادکست</title>
 		</image>
 		<itunes:subtitle>پی‌آر پادکست قصه های متن باز</itunes:subtitle>
@@ -24,7 +24,7 @@
 			<itunes:name>Mehdi</itunes:name>
 			<itunes:email>prpodcast2020@gmail.com</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://prpodcast.ir/logo512.png" />
+		<itunes:image href="https://prpodcast.ir/logo1400.png" />
 		<itunes:category text="Technology">
 			<itunes:category text="Developers" />
 		</itunes:category>
