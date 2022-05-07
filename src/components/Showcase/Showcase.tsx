@@ -7,9 +7,7 @@ const Showcase = () => {
         <div className="showcase-text">
           <h1>Open Source Stories</h1>
           <p>Everyone has their own story.
-            We are trying to tell stories and share
-            experiences over each episode to inspire
-            you to start your journey in the open-source community.
+            Every episode tells a story and shares an experience to inspire you to join the open-source community.
           </p>
           <button className="btn btn-outline">Read more</button>
         </div>
