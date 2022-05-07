@@ -9,7 +9,6 @@ const Showcase = () => {
           <p>Everyone has their own story.
             Every episode tells a story and shares an experience to inspire you to join the open-source community.
           </p>
-          <button className="btn btn-outline">Read more</button>
         </div>
         <div className="showcase-form card">
           <h2>Participate</h2>
