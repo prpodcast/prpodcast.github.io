@@ -8,8 +8,7 @@ const Navbar = () => {
         <nav>
           <ul>
             <li><a href="https://prpodcast.ir">Home</a></li>
-            {/*<li><a href="https://prpodcast.ir/">Blog</a></li>
-            <li><a href="#">Hosts</a></li>*/}
+            <li><a href="https://github.com/prpodcast/prpodcast.github.io" target="_blank">Github</a></li>
           </ul>
         </nav>
       </div>
