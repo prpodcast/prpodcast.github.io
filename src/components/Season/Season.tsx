@@ -6,6 +6,16 @@ import {EpisodeInterface} from '../Episode/episode.interface'
 const Season = () => {
   const episodes: EpisodeInterface[] = [
     {
+      'no': 7,
+      'thumbnail': 'https://opengraph.githubassets.com/246010f3fffaedcac0b383eb7b6479cdfa3e5569c9cbedb4f78a1905792719b3/theatre-js/theatre',
+      'releaseDate': 'May 14, 2022',
+      'duration': '50:00',
+      'title': 'Theatre.js',
+      'description': 'An animation library for high-fidelity motion graphics.',
+      'audioFile': '',
+      'githubAddress': 'https://github.com/theatre-js/theatre'
+    },
+    {
       'no': 6,
       'thumbnail': 'https://opengraph.githubassets.com/c6e742e270def163a1a0daa3ddbc8bb80f12c903de0eac7f05b9ef810bc66efb/saeedalipoor/icono',
       'releaseDate': 'Aug 14, 2021',
