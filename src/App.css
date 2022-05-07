@@ -36,7 +36,6 @@ button {
 h1, h2 {
     font-weight: 300;
     line-height: 1.2;
-    margin: 10px 0;
 }
 
 p {
@@ -139,7 +138,7 @@ img {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 20px;
     justify-content: center;
     align-items: center;

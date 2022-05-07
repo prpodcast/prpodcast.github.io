@@ -1,8 +1,35 @@
-.ep-detail i {
-    margin: 0 10px;
+.episode {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+
+    width: 400px;
+    height: auto;
+    max-height: 360px;
+
+    color: #333;
+    border-radius: 10px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 25px;
 }
 
-.ep-desc {
+.episode i {
+    margin-right: 3px;
+}
+
+.episode span {
+    margin-right: 10px;
+}
+
+.episode .description {
     text-align: justify;
     text-justify: inter-word;
+}
+
+@media (max-width: 768px) {
+    .episode {
+        margin: 10px;
+        padding: 15px;
+    }
 }
