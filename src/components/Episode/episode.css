@@ -1,7 +1,6 @@
 .episode {
     display: flex;
     justify-content: flex-start;
-    flex-direction: column;
 
     width: 400px;
     height: auto;
@@ -10,8 +9,28 @@
     color: #333;
     border-radius: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.5);
-    padding: 20px;
     margin: 25px;
+}
+
+.episode .detail {
+    flex-direction: column;
+    padding: 20px;
+}
+
+.episode .no {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 32px;
+    color: #fff;
+    background: #2d2d2d;
+    font-weight: bolder;
+
+    margin-left: 0;
+    padding: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
 }
 
 .episode i {
@@ -30,6 +49,9 @@
 @media (max-width: 768px) {
     .episode {
         margin: 10px;
+    }
+
+    .episode .detail {
         padding: 15px;
     }
 }
