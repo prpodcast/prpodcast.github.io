@@ -61,6 +61,12 @@
     -ms-transform: skewY(-3deg);
 }
 
+.showcase-badge > a > img {
+    width: 165px;
+    height: 40px;
+    margin: 10px 5px;
+}
+
 @media (max-width: 768px) {
     .showcase .grid {
         grid-template-columns: 1fr;
